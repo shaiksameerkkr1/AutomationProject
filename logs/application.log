@@ -1,0 +1,24 @@
+2024-12-19 13:42:42 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\MY HOME\Desktop\java practice\MySeleniumFrameworkV1.0\master.xml
+
+2024-12-19 13:42:53 [main] INFO  testCases.TC002_LoginUser - *******	Started login test	*******
+2024-12-19 13:45:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\MY HOME\Desktop\java practice\MySeleniumFrameworkV1.0\master.xml
+
+2024-12-19 13:45:11 [main] INFO  testCases.TC002_LoginUser - *******	Started login test	*******
+2024-12-19 17:07:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\MY HOME\Desktop\java practice\MySeleniumFrameworkV1.0\master.xml
+
+2024-12-19 17:07:43 [main] INFO  testCases.TC002_LoginUser - *******	Started login test	*******
+2024-12-19 17:09:30 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\MY HOME\Desktop\java practice\MySeleniumFrameworkV1.0\master.xml
+
+2024-12-19 17:09:36 [main] INFO  testCases.TC002_LoginUser - *******	Started login test	*******
+2024-12-19 17:10:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\MY HOME\Desktop\java practice\MySeleniumFrameworkV1.0\master.xml
+
+2024-12-19 17:10:31 [main] INFO  testCases.TC001_RegisterUser - ****** Started executing register user testcase *******
+2024-12-19 17:10:31 [main] INFO  testCases.TC001_RegisterUser - 	clicking on my account -> register user	
+2024-12-19 17:10:31 [main] INFO  testCases.TC001_RegisterUser - 	providing user data	
+2024-12-19 17:10:34 [main] INFO  testCases.TC001_RegisterUser - 	Finished execution of testcase	
+2024-12-19 17:10:39 [main] INFO  testCases.TC002_LoginUser - *******	Started login test	*******
